@@ -1,3 +1,5 @@
 print("day 31 - git practical")
 print("learning cybersecurity + ai/ml")
 print("practising git step by step")
+print("day 32 - learning git diff")
+print("day 33 - practising git")
